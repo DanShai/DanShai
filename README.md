@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 @DanShai and @NightCrawler001
+- 👀 making stuffs ! 
+- 🌱 Knock knock ...
+- 💞️ who's there ? ...
+- 📫 ...
 
 <!--
 **DanShai/DanShai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
